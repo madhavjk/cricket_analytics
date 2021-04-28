@@ -1,8 +1,8 @@
-# CRICKET ANALYTICS USING PYTHON
+# Cricket Analytics Using Python
 
 
 
-Day 0 - Let's get started with the Basics of Python!
+Day 0 - Let's get started with the Basics of Python.
 
 Day 1 - Introduction to Sports Analytics
 
