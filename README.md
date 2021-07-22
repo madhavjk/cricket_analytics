@@ -1,4 +1,4 @@
-# Cricket Analytics Using Python
+# Cricket Analytics Using Pyth
 
 
 
